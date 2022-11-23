@@ -29,6 +29,13 @@
             {
               "client_id": "918001173274-t82e9hrui5nd0hl1le4h79782fga3760.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "918001173274-u46re3icr3hdv98v9dd7sn1u7m46db7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fabianromaniec.cantwait28"
+              }
             }
           ]
         }
