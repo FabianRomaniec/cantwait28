@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "918001173274",
-    "project_id": "cantwaitfr",
-    "storage_bucket": "cantwaitfr.appspot.com"
+    "project_number": "958745936779",
+    "project_id": "cantwaitfr1",
+    "storage_bucket": "cantwaitfr1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:918001173274:android:754f3d36f3fb841f5e62a3",
+        "mobilesdk_app_id": "1:958745936779:android:253101961c9a6fd699658e",
         "android_client_info": {
           "package_name": "com.fabianromaniec.cantwait28"
         }
       },
       "oauth_client": [
         {
-          "client_id": "918001173274-t82e9hrui5nd0hl1le4h79782fga3760.apps.googleusercontent.com",
+          "client_id": "958745936779-7qoavjlothbfju1pdcndpnoshmddchgn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC06pg7p99eM_1CLgxvj7wVL2Jb5P6dLO4"
+          "current_key": "AIzaSyBifDtTLP76VPZUIHXfJto1HVYHSu-Fgtc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "918001173274-t82e9hrui5nd0hl1le4h79782fga3760.apps.googleusercontent.com",
+              "client_id": "958745936779-7qoavjlothbfju1pdcndpnoshmddchgn.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "918001173274-u46re3icr3hdv98v9dd7sn1u7m46db7a.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.fabianromaniec.cantwait28"
-              }
             }
           ]
         }
